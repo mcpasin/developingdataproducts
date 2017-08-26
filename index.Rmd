@@ -13,7 +13,7 @@ setwd("C:/Users/Marco/Dropbox/Coursera/Data Science Specialization - JHU/Develop
 places <- read.csv("my life places - places.csv")
 ```
 
-***
+****
 
 # Where I lived in a map
 ##### click on circles to see how long I lived in each place
